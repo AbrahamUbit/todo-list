@@ -1,0 +1,18 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "todo-list",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "todo-list",
+  "scripts": {
+    "postdeploy": "todo-list"
+  },
+  "stack": "heroku-18"
+}
